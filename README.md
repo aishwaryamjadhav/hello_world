@@ -1,2 +1,2 @@
 # hello_world
-Just for trial purpose
+This repository is created just for trial purpose
